@@ -20,6 +20,7 @@ Don't worry, if you're in trouble ping either [@filfreire](https://twitter.com/f
 Create a PR with this [template](https://github.com/HacktoberfestOPO/2017/blob/master/template.md) in order to add your information on the [attendees](https://github.com/HacktoberfestOPO/2017/blob/master/attendees.md) file. **Pro tip:** it counts as an Hacktoberfest pull request!
 
 ## Other information
-Event information can be found [here](https://www.eventbrite.com/e/hacktoberfest-in-porto-tickets-38465845379)
+Event information can be found [here](https://www.eventbrite.com/e/hacktoberfest-in-porto-tickets-38465845379).
 
-# Have fun 🍺
+Have fun!
+🍺🍺🍺
