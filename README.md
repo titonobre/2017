@@ -28,5 +28,7 @@ Create a PR with this [template](https://github.com/HacktoberfestOPO/2017/blob/m
 ## Other information
 Event information can be found [here](https://www.eventbrite.com/e/hacktoberfest-in-porto-tickets-38465845379).
 
+Attendes list can be found [here](attendees.md).
+
 Have fun!
 🍺🍺🍺
