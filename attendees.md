@@ -5,5 +5,5 @@
 * Pedro Tavares [@ordepdev](https://twitter.com/ordepdev)
 
 ## Attendees
-Make a *pull request* with this [template](https://github.com/HacktoberfestOPO/2017/blob/master/template.md)
-in order to add your name, social links, and the pull requests that you're able to accomplish during the event.
+* Dmitry  [@dreamitry](https://twitter.com/dreamitry) ｜ [dmitry-christie](https://github.com/dmitry-christie)
+* Bruno [blivi](https://github.com/blivi)
