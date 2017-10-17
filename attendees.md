@@ -6,6 +6,7 @@
 
 ## Attendees
 
+* Augustas Verbickas [@Augustris] (https://twitter.com/Augustris)
 * Dmitry  [@dreamitry](https://twitter.com/dreamitry) ｜ [dmitry-christie](https://github.com/dmitry-christie)
 * Bruno [blivi](https://github.com/blivi)
 * Pedro Gonçalves [@pedrocssg](https://github.com/Pedrocssg)
