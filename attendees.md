@@ -16,5 +16,6 @@
 * João Portela [@joaoportela](https://github.com/joaoportela)
 * Diogo Silva [@diogo98s](https://twitter.com/diogo98s)
 * Hugo Madureira [@hugomadureira](https://github.com/hugomadureira)
+* Tito Nobre [@titonobre](https://github.com/titonobre)
 
 Actually, there was more people involved. Thanks to everyone!
