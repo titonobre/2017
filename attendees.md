@@ -5,4 +5,4 @@
 * Pedro Tavares [@ordepdev](https://twitter.com/ordepdev)
 
 ## Attendees
-* John Doe [[@maria_mmfs](https://twitter.com/maria_mmfs)|[@AryaGirl](https://github.com/AryaGirl)]
+* Maria Silva [[@maria_mmfs](https://twitter.com/maria_mmfs)|[@AryaGirl](https://github.com/AryaGirl)]
