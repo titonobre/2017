@@ -3,7 +3,10 @@
 ![hacktoberfest](https://nyc3.digitaloceanspaces.com/hacktoberfest/Hacktoberfest17-TWFB-02.png)
 
 ## Pitches
-* [filfreire](https://github.com/filfreire) - [Tacit](https://github.com/yegor256/tacit), [Rultor](https://github.com/yegor256/rultor), [Cactoos](https://github.com/yegor256/cactoos)
+* [filfreire](https://github.com/filfreire)
+  * [Tacit](https://github.com/yegor256/tacit)
+  * [Rultor](https://github.com/yegor256/rultor)
+  * [Cactoos](https://github.com/yegor256/cactoos)
 * [locks](https://github.com/locks)
   * [emberjs](https://github.com/emberjs) - [guides](https://github.com/emberjs/guides)
   * [ember-learn](https://github.com/ember-learn) - [statusboard](https://github.com/ember-learn/statusboard)
