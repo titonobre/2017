@@ -6,6 +6,8 @@
 
 ## Attendees
 
+* Dmitry  [@dreamitry](https://twitter.com/dreamitry) ｜ [dmitry-christie](https://github.com/dmitry-christie)
+* Bruno [blivi](https://github.com/blivi)
 * Pedro Gonçalves [@pedrocssg](https://github.com/Pedrocssg)
 * João Portela [@joaoportela](https://github.com/joaoportela)
 * Diogo Silva [@diogo98s](https://twitter.com/diogo98s)
