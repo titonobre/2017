@@ -11,7 +11,6 @@
   * [emberjs](https://github.com/emberjs) - [guides](https://github.com/emberjs/guides)
   * [ember-learn](https://github.com/ember-learn) - [statusboard](https://github.com/ember-learn/statusboard)
   * [glimmerjs](https://github.com/glimmerjs) - [glimmer-website](https://github.com/glimmerjs/glimmer-website)
-* TBA
 
 ## Before you start coding
 Don't forget to register at [Hacktoberfest](https://hacktoberfest.digitalocean.com/sign_up/register).
