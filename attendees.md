@@ -6,6 +6,7 @@
 
 ## Attendees
 
+* Catarina Cruz [@cati-123-199](https://github.com/cati-123-199)
 * Maria Silva [[@maria_mmfs](https://twitter.com/maria_mmfs)|[@AryaGirl](https://github.com/AryaGirl)]
 * Augustas Verbickas [@Augustris] (https://twitter.com/Augustris)
 * Dmitry  [@dreamitry](https://twitter.com/dreamitry) ｜ [dmitry-christie](https://github.com/dmitry-christie)
