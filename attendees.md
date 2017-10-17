@@ -5,6 +5,8 @@
 * Pedro Tavares [@ordepdev](https://twitter.com/ordepdev)
 
 ## Attendees
+
+* Pedro Gonçalves [@pedrocssg](https://github.com/Pedrocssg)
 * João Portela [@joaoportela](https://github.com/joaoportela)
 * Diogo Silva [@diogo98s](https://twitter.com/diogo98s)
 
